@@ -32,7 +32,7 @@ Below are recommendations I've received from colleagues, managers, and my profes
 ### From Assistant Professor Tejaswini Apte - MSc Coordinator
 *Assitant Professor* | Received: May 2020
 
-> I worked alongside [Your Name] at Startup XYZ, and I was consistently impressed by their work ethic and technical abilities. They have a deep understanding of modern web technologies and always stay updated with the latest trends. [Your Name] was instrumental in building our core platform features and significantly improved our application's performance. What I appreciated most was their collaborative spirit - they were always willing to help debug issues, review code, and share knowledge with the team. They're a great team player who brings positive energy to every project. Any team would be lucky to have them.
+> Briliant, hardworking, humble and sincere. I have known Ashutosh for the past 5 years (from his BCA and MSc(CA), which he is currently pursuing) at Symbiosis Institute of Computer Studies and Research(SICSR). During these years he has always been curious about any technical problems. There is a famous quote from Bernard Baruch “Millions saw the apple fall, but Newton asked why “; and Ashutosh perfectly portrays the aforesaid “Why”. He is a Technical lead of “SICSR ACM Student Chapter” and he has also organized various technical initiatives at SICSR. His pragmatic approach for system design and coding has provided him with solutions for various problems. 
 
 ---
 
