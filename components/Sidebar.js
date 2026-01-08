@@ -39,13 +39,13 @@ const readingWritingLinks = [
 const documentLinks = [
   {
     name: 'Resume',
-    url: '/resume.pdf',
-    download: 'Ashutosh_Kumar_Resume.pdf',
+    url: 'public/Ashutosh_Kumar_CV.pdf',
+    download: '',
     icon: '📄'
   },
   {
     name: 'Curriculum Vitae',
-    url: '/cv.pdf',
+    url: 'public/Ashutosh_Kumar_Resume.pdf',
     download: 'Ashutosh_Kumar_CV.pdf',
     icon: '📋'
   },
