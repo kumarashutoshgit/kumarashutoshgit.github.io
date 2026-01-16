@@ -26,6 +26,10 @@ const readingWritingLinks = [
     url: 'https://www.goodreads.com/user/show/90235083-ashutosh-kumar',
   },
   {
+    name: 'Eternity',
+    url: 'https://eternityblog.netlify.app/',
+  },
+  {
     name: 'Medium',
     url: 'https://medium.com/@ashutoshkumarbook',
   },
@@ -45,7 +49,7 @@ const documentLinks = [
   },
   {
     name: 'Curriculum Vitae',
-    url: '/cv.pdf',
+    url: 'public/Ashutosh_Kumar_Resume.pdf',
     download: 'Ashutosh_Kumar_CV.pdf',
     icon: '📋'
   },
