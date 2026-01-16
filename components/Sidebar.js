@@ -44,12 +44,12 @@ const documentLinks = [
   {
     name: 'Resume',
     url: '/resume.pdf',
-    download: 'Ashutosh_Kumar_Resume.pdf',
+    download: '/Ashutosh_Kumar_Resume.pdf',
     icon: '📄'
   },
   {
     name: 'Curriculum Vitae',
-    url: 'public/Ashutosh_Kumar_Resume.pdf',
+    url: '/cv.pdf',
     download: 'Ashutosh_Kumar_CV.pdf',
     icon: '📋'
   },
