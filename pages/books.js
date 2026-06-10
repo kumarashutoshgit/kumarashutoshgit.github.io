@@ -219,11 +219,6 @@ export default function Books({ books }) {
                     <span className={`text-xs px-2 py-0.5 rounded-full font-medium hidden sm:inline-block ${SHELF_COLORS[book.shelf]}`}>
                       {SHELF_LABELS[book.shelf]}
                     </span>
-                    {book.rating && book.rating !== '0' && (
-                      <span className="text-xs text-amber-500 hidden sm:inline-block">
-                        {'★'.repeat(Number(book.rating))}
-                      </span>
-                    )}
                     {book.link && (
                       <a
                         href={book.link}
