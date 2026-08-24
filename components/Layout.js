@@ -1,9 +1,12 @@
+import FallingLeaves from './FallingLeaves';
 import Sidebar from './Sidebar';
 import Head from 'next/head';
 
 export default function Layout({ children, title = 'Portfolio' }) {
   return (
     <>
+      <FallingLeaves count={5} speedSec={15} />
+      {}
       <Head>
         <title>{title}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
